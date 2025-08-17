@@ -1,4 +1,4 @@
-name = "nodecrypt"
+name = "heibaichat1"
 main = "worker/index.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
